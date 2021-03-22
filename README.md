@@ -1,1 +1,2 @@
-# here is the link to my DOM assignment samfrexz-mall.netlify.app
+# here is the link to my DOM assignment
+https://samfrexz-mall.netlify.app/
